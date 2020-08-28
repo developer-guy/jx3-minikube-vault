@@ -47,7 +47,7 @@ environments:
   key: production
 gitops: true
 ingress:
-  domain: "\U0001F937  The control plane node must be running for this command\n\U0001F449  To fix this, run: \"minikube start\".nip.io"
+  domain: 192.168.99.175.nip.io
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
